@@ -26,8 +26,8 @@ Criar um "cérebro de aprendizado" utilizando IA para estudar cybersegurança, r
 ## 🤖 Engenharia de Prompts
 
 ### Prompt 1:
-
 O que é cybersegurança?
+
 **Resposta:** A cybersegurança é a prática de proteger computadores, servidores, redes, programas e dados contra ataques digitais, roubos, danos ou acessos não autorizados. Tecnicamente, ela consiste em um corpo de tecnologias, processos e práticas projetados para garantir a segurança de ativos digitais e reduzir o risco de exploração de vulnerabilidades.
 Os fundamentos e pilares da área, conforme detalhados nas fontes, incluem:
 1. Os Três Pilares (Tríade CIA)
@@ -53,6 +53,7 @@ As fontes enfatizam que a cybersegurança não é algo apenas "virtual", mas um 
 ### Prompt 2:
 
 Explique phishing com exemplo
+
 **Resposta:** O phishing (ou phishing-scam) é um tipo de fraude no qual um golpista tenta obter dados pessoais e financeiros de um usuário através da utilização combinada de meios técnicos e engenharia social. A palavra vem de uma analogia com a "pescaria" (fishing), onde mensagens eletrônicas são usadas como "iscas" para "pescar" senhas e dados bancários.
 Esses ataques geralmente ocorrem por meio de mensagens que tentam se passar por comunicações oficiais de instituições conhecidas, como bancos, redes sociais ou empresas de comércio eletrônico. As mensagens frequentemente informam que o usuário precisa realizar um procedimento urgente para evitar o cancelamento de uma conta ou uma inscrição em serviços de proteção de crédito.
 Abaixo estão alguns exemplos detalhados de como o phishing funciona na prática:
@@ -65,6 +66,7 @@ Além do e-mail, o phishing possui variantes como o smishing (via SMS), o vishin
 ### Prompt 3:
 
 Como iniciar na carreira de cybersegurança?
+
 **Resposta:** Iniciar uma carreira em cibersegurança exige uma combinação de base técnica sólida, certificações estratégicas, prática constante e o desenvolvimento de uma mentalidade analítica. As fontes fornecem um roteiro detalhado para quem deseja ingressar nesse mercado em crescimento:
 1. Construa uma Base Sólida em TI
 Antes de se especializar em segurança, você deve dominar os fundamentos da tecnologia, pois não é possível proteger o que você não entende como funciona.
